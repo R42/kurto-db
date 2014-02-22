@@ -1,0 +1,23 @@
+{
+  "name": "kurto-db",
+  "version": "0.0.0",
+  "description": "simple database for kurto",
+  "main": "index.js",
+  "dependencies": {
+    "sqlite3": "~2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Igor Soarez <igorsoarez@gmail.com>",
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/R42/kurto-db.git"
+  },
+  "bugs": {
+    "url": "https://github.com/R42/kurto-db/issues"
+  },
+  "homepage": "https://github.com/R42/kurto-db"
+}
